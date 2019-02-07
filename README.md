@@ -1,2 +1,3 @@
-# PVC
-python 2.7 to python 3.6 syntax converter.
+#PVC
+Python Version Converter
+Python 2.7 To Python 3.6 Syntax Converter
